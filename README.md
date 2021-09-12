@@ -11,3 +11,4 @@ AutoHotKey Scripts for Bath Banning the Hate Raid Bots
     banlist4: control + ]
     banlist5: control + -
 
+I'll add more scripts for new big groups of bot accounts I detect
