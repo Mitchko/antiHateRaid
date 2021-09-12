@@ -1,5 +1,5 @@
 # antiHateRaid
-AutoHotKey Scripts for Bath Banning the Hate Raid Bots
+AutoHotKey Scripts for Batch Banning the Hate Raid Bots
 
 - Go to https://www.autohotkey.com and download AutoHotKey
 - Download and run the scripts in this directory
