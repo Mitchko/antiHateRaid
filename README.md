@@ -10,5 +10,6 @@ AutoHotKey Scripts for Batch Banning the Hate Raid Bots
     * banlist3: control + =
     * banlist4: control + ]
     * banlist5: control + -
+    * banlist5: control + =
 
 I'll add more scripts for new big groups of bot accounts I detect
